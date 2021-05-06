@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 <!-- ソースコード統計 -->
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruki0314&layout=compact&theme=tokyonight)](https://github.com/haruki0314/)
+
+https://img.shields.io/badge/${subject}-${status}-${color}.svg
