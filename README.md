@@ -1,4 +1,4 @@
-### Hi there 👋thanks for wathing!
+### Hi there 👋thanks for watching!
 
 
 <!--
