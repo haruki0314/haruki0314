@@ -7,7 +7,7 @@ Hi, I'm Haruki Oba,working hard to become a front-end engineer.
 - 12時には寝る
 
 ##### 現在🌱  HTML・CSS・JS・Reactを勉強中
-##### 目標⚡  2024年にモダンフレームワークを使った開発・仕事をすること
+##### 目標⚡  2024年にモダンフレームワークを使った開発・仕事をしたい
 <br>
 Hi 
 <br>
