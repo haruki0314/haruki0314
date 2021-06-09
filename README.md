@@ -1,4 +1,4 @@
-#### Hey thre👍
+#### Hey there👍
 Hi, I'm Haruki Oba,working hard to become a front-end engineer.
 
 ### 直近の目標
