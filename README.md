@@ -2,6 +2,10 @@
 現在🌱  現在はHTML・CSS・JS・Reactの学習中<br>
 目標⚡  2024年にモダンフレームワークを使った開発・仕事をすること
 <br>
+直近の目標
+-フロントエンジニアのコミュニティに参加したい
+-毎日草を生やす
+-12時には寝る
 
 <!-- リポジトリステータス -->
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=haruki0314&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/haruki0314/)
