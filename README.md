@@ -2,7 +2,7 @@
 Hi, I'm Haruki Oba,working hard to become a front-end engineer.
 
 ### 直近の目標
-- フロントエンジニアのコミュニティに参加したい
+- フロントエンドエンジニアのコミュニティに参加する
 - 毎日草を生やす
 - 12時には寝る
 
