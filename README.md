@@ -8,9 +8,7 @@ Hi, I'm Haruki Oba,working hard to become a front-end engineer.
 
 ##### 現在🌱  HTML・CSS・JS・Reactを勉強中
 ##### 目標⚡  2024年にモダンフレームワークを使った開発・仕事をしたい
-<br>
-Hi 
-<br>
+
 <!-- リポジトリステータス -->
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=haruki0314&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/haruki0314/)
 
