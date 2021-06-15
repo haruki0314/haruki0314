@@ -6,6 +6,9 @@ Hi, I'm Haruki Oba,working hard to become a front-end engineer.
 - 毎日草を生やす
 - 12時には寝る
 
+### 副業して、ipadAirとapplewatchとMacBookを買いたい！！！！！
+
+
 ##### 現在🌱  HTML・CSS・JS・Reactを勉強中
 ##### 目標⚡  2024年にはモダンフレームワークを使った開発・仕事をしたい
 
