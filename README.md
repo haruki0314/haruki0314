@@ -3,11 +3,12 @@ Hi, I'm Haruki Oba,working hard to become a front-end engineer.
 
 ### 直近の目標
 - フロントエンドエンジニアのコミュニティに参加する
-- 12時には寝る
+- reduxを扱えるようになる。
+- react typescriptを用いた開発経験を作る。
 
 
 
-##### 現在🌱  HTML・CSS・JS・Reactを勉強中
+##### 現在🌱  HTML・CSS・JS・React・redux・typescriptを勉強中
 ##### 目標⚡  2024年にはモダンフレームワークを使った開発・仕事をしたい
 
 <!-- リポジトリステータス -->
