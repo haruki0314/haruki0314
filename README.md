@@ -4,7 +4,7 @@ Hi, I'm Haruki Oba,working hard to become a front-end engineer.
 ### 直近の目標
 - フロントエンドエンジニアのコミュニティに参加する
 - reduxを扱えるようになる。
-- react typescriptを用いた開発経験を作る。
+- react typescriptを用いた開発経験を作る。チャットアプリ・todoアプリ
 
 
 
