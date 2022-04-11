@@ -1,8 +1,8 @@
 #### Hey there👍
 Hi, I'm Haruki Oba,working hard to become a front-end engineer.
 
-### 直近の目標
-- springbootガチってます。(←rubyで良くないですか)
+### 最近
+- springboot
 - DB
 - サーバー系
 - 基本情報
