@@ -8,7 +8,6 @@ Hi, I'm Haruki Oba,working hard to become a front-end engineer.
 - 基本情報
 
 
-##### 目標　2022年以内にバック側に転職したい
 ##### 最近バックエンドばっかりやっています。
 
 <!-- リポジトリステータス -->
