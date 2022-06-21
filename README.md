@@ -1,14 +1,19 @@
 #### Hey there👍
 Hi, I'm Haruki Oba,working hard to become a front-end engineer.
 
-### 最近
+### 直近
 - springboot
-- DB
-- サーバー系
+- docker
+- react
 - 基本情報
 
-
-##### 最近バックエンドばっかりやっています。
+### lang
+# Java-springBoot,MyBatis
+# MySQL
+# JavaScript
+# React
+# TypeScript
+# HTML/CSS/SCSS-Tymeleaf
 
 <!-- リポジトリステータス -->
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=haruki0314&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/haruki0314/)
