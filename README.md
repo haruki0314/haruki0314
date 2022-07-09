@@ -1,13 +1,13 @@
-#### Hey there👍
-Hi, I'm Haruki Oba,working hard to become a front-end engineer.
+#### About me
+Hi, I'm Haruki Oba,working hard to become a front-end engineer from japan🇯🇵
 
 
-## Programming language being studied
+## Language
 *・Java-springBoot,MyBatis*  
 *・MySQL*  
 *・JavaScript*  
 *・React*  
-*・TypeScript*  
+*・TypeScript*    
 *・HTML/CSS/SCSS-Tymeleaf*  
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -17,11 +17,12 @@ Hi, I'm Haruki Oba,working hard to become a front-end engineer.
 <!-- ソースコード統計 -->
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruki0314&layout=compact&theme=vue-dark)](https://github.com/haruki0314/)
 
-### recentry
-- springboot
-- docker
+### Recentry
+- We are developing internal systems with "springboot java"
+- Studying docker
 - react_typescript
-- 基本情報技術者
+- 基本情報の過去問と書籍読んでます。
+- リーダブルコード読んでます
 
 
 <!-- リポジトリステータス -->
