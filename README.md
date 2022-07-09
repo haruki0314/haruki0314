@@ -2,7 +2,7 @@
 Hi, I'm Haruki Oba,working hard to become a front-end engineer.
 
 
-## lang
+## Programming language being studied
 *・Java-springBoot,MyBatis*  
 *・MySQL*  
 *・JavaScript*  
