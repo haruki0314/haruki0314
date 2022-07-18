@@ -22,8 +22,7 @@ Hi, I'm Haruki Oba,working hard to become a front-end engineer from japan🇯�
 
 ### Recentry
 - We are developing internal systems with "springboot java"
-- Studying docker
-- react_typescript
+- Studying docker,nextJs,React,Typescript
 - 基本情報の過去問と書籍読んでます。
 - リーダブルコード読んでます
 
