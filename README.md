@@ -3,7 +3,7 @@ Hi, I'm Haruki Oba,working hard to become a front-end engineer from japan🇯�
 
 
 ## Language
-*・Java-springBoot,MyBatis/ドメイン駆動設計*  
+*・Java-springBoot,MyBatis*  
 *・MySQL*  
 *・JavaScript*  
 *・React-materialui/AtomicDesign*  
@@ -21,7 +21,7 @@ Hi, I'm Haruki Oba,working hard to become a front-end engineer from japan🇯�
 
 
 ### Recentry
-- We are developing internal systems with "springboot java"
+- Javaの開発を行っています。"
 - Studying docker,nextJs,React,Typescript
 - 基本情報の過去問と書籍読んでます。
 - リーダブルコード読んでます
