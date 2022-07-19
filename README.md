@@ -23,8 +23,6 @@ Hi, I'm Haruki Oba,working hard to become a front-end engineer from japan🇯�
 ### Recentry
 - Javaの開発を行っています。"
 - Studying docker,nextJs,React,Typescript
-- 基本情報の過去問と書籍読んでます。
-- リーダブルコード読んでます
 
 
 <!-- リポジトリステータス -->
