@@ -9,7 +9,7 @@ Hi, I'm Haruki Oba,working hard to become a front-end engineer from japan🇯�
 *・React-materialui/AtomicDesign*  
 *・TypeScript*  
 *・Vue ← I recently started learning this technique!*  
-*・HTML/CSS/SASS-Tymeleaf*    
+*・HTML/CSS/SCSS-Tymeleaf*    
 *・-Docker・Firebase・GraphQL*
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
