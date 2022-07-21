@@ -1,6 +1,13 @@
 #### About me
 Hi, I'm Haruki Oba,working hard to become a front-end engineer from japan🇯🇵
 
+### 目標
+2023年にフロント案件に従事(転職も視野)できるように再度目標立てを行う。
+
+### todo
+・9月までVueとspringbootを用いた開発を一本取り組む。
+・AWSを用いた開発を一本行う。
+
 
 ## Language
 *・Java-springBoot,MyBatis*  
