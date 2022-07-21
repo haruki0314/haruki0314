@@ -2,11 +2,7 @@
 Hi, I'm Haruki Oba,working hard to become a front-end engineer from japan🇯🇵
 
 ### 目標
-2023年にフロント案件に従事(転職も視野)できるように再度目標立てを行う。
-
-### todo
-・9月までVueとspringbootを用いた開発を一本取り組む。
-・AWSを用いた開発を一本行う。
+2023年にフロント案件に従事(転職も視野)できるように再度目標立てを行う。(7/30)
 
 
 ## Language
@@ -18,6 +14,11 @@ Hi, I'm Haruki Oba,working hard to become a front-end engineer from japan🇯�
 *・Vue ← I recently started learning this technique!*  
 *・HTML/CSS/SCSS-Tymeleaf*    
 *・-Docker・Firebase・GraphQL*
+
+#### todo
+・9月までVueとspringbootを用いた開発を一本取り組む。
+
+・AWSを用いた開発を一本行う。
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
