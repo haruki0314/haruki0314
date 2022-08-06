@@ -34,7 +34,7 @@ Hi, I'm Haruki Oba,working hard to become a front-end engineer from japan🇯�
 
 ### Recentry
 - 業務ではjavaで開発をしています。
-- スキルアップのためにアウトプット頑張ってます。🥹
+- スキルアップのためにアウトプット頑張ってます。
 
 
 <!-- リポジトリステータス -->
