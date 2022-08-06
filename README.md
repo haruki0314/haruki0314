@@ -17,7 +17,7 @@ Hi, I'm Haruki Oba,working hard to become a front-end engineer from japan🇯�
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 <!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruki0314&layout=compact&theme=vue-dark)](https://github.com/haruki0314/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruki0314&hide=html,layout=compact&theme=vue-dark)](https://github.com/haruki0314/)
 
 ## Target
 2023年にフロント案件に従事(転職も視野)できるように再度目標立てを行う。(7/30)
