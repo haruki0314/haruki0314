@@ -20,7 +20,6 @@ Hi, I'm Haruki Oba,working hard to become a front-end engineer from japan🇯�
 <!-- ソースコード統計 -->
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruki0314&hide=html&layout=compact&theme=vue-dark)](https://github.com/haruki0314/)
 
-## Target
 
 
 
