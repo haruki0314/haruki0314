@@ -20,7 +20,7 @@ Hi, I'm Haruki Oba,working hard to become a front-end engineer from japan🇯�
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruki0314&hide=html&layout=compact&theme=vue-dark)](https://github.com/haruki0314/)
 
 ## Target
-2023年にフロント案件に従事(転職も視野)できるように再度目標立てを行う。(7/30)
+
 
 
 ### Todo
