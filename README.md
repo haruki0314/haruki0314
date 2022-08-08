@@ -22,16 +22,6 @@ Hi, I'm Haruki Oba,working hard to become a front-end engineer from japan🇯�
 
 
 
-
-### Todo
-・9月までVueとspringbootを用いた開発を一本取り組む。
-
-・AWSを用いた開発を一本行う。
-
-
-
-
-
 ### Recentry
 - 業務ではjavaで開発をしています。
 - スキルアップのためにアウトプット頑張ってます。
