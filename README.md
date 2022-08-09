@@ -4,15 +4,14 @@ Hi, I'm Haruki Oba,working hard to become a front-end engineer from japan🇯�
 ## Language
 *・C*  
 *・Java-springBoot,MyBatis*  
-→JavaでPdf,Excelファイルを作成できます🙆‍♀️
 *・MySQL*  
 *・JavaScript*  
 *・React-materialui/AtomicDesign*  
 *・TypeScript*  
 *・Vue ← I recently started learning this technique!*  
 *・HTML/CSS/SCSS-Tymeleaf*    
-*・-Docker・Firebase・GraphQL*
-
+*・-Docker・Firebase・GraphQL*     
+Java
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -24,7 +23,7 @@ Hi, I'm Haruki Oba,working hard to become a front-end engineer from japan🇯�
 
 
 ### Recentry
-- 業務ではjavaで開発をしています。
+- 業務ではjavaで開発をしています。Pdfで帳票の作成やExcelデータ等作成できます🙆‍♀️
 - 10月に基本情報取得予定
 - スキルアップのためにアウトプット頑張ってます💪
 
