@@ -4,6 +4,7 @@ Hi, I'm Haruki Oba,working hard to become a front-end engineer from japan🇯�
 ## Language
 *・C*  
 *・Java-springBoot,MyBatis*  
+→JavaでPdf,Excelファイルを作成できます🙆‍♀️
 *・MySQL*  
 *・JavaScript*  
 *・React-materialui/AtomicDesign*  
@@ -24,7 +25,8 @@ Hi, I'm Haruki Oba,working hard to become a front-end engineer from japan🇯�
 
 ### Recentry
 - 業務ではjavaで開発をしています。
-- スキルアップのためにアウトプット頑張ってます。
+- 10月に基本情報取得予定
+- スキルアップのためにアウトプット頑張ってます💪
 
 
 <!-- リポジトリステータス -->
