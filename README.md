@@ -18,7 +18,7 @@ Java
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 <!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruki0314&hide=html&layout=compact&theme=vue-dark)](https://github.com/haruki0314/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruki0314&hide=html,css&layout=compact&theme=vue-dark)](https://github.com/haruki0314/)
 
 
 
