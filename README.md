@@ -22,7 +22,7 @@ Hi, I'm Haruki Oba,working hard to become a front-end engineer from japan🇯�
 
 
 ### Recentry
-- 業務ではjavaで開発をしています。Pdfで帳票の作成やExcelデータ等作成できます🙆‍♀️
+- 業務ではjavaで開発をしています。Pdf形式の帳票の作成やExcelデータ等作成できます🙆‍♀️
 - 10月に基本情報取得予定
 - スキルアップのためにアウトプット頑張ってます💪
 
