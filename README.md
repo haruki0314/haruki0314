@@ -22,7 +22,7 @@ Hi, I'm Haruki Oba,working hard to become a front-end engineer from japan🇯�
 
 
 ### Recentry
-- 業務はjavaでWebアプリケーションを作成しています。直近はspringbootでRestfullなサービス作ってます。
+- 業務はjavaでWebアプリケーションを作成しています。
 - Nextでポートフォリオサイト作成中
 
 
