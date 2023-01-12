@@ -24,6 +24,9 @@ Hi, I'm Haruki Oba,working hard to become a front-end engineer from japan🇯�
 - 業務はjavaでWebアプリケーションを作成しています。
 - Nextでポートフォリオサイト作成中
 
+### Qualifications
+- 色彩検定UC級
+- 社団法人全日本能率連盟登録資格 Web検定 Webアソシエイト
 
 <!-- リポジトリステータス -->
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=haruki0314&hide=contribs&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/haruki0314/)
