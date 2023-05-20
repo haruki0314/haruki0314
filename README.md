@@ -21,8 +21,7 @@ Hi, I'm Haruki Oba,working hard to become a the best engineer from japan🇯🇵
 
 
 ### Recentry
-- 業務はjavaでWebアプリケーションを作成しています。
-- Nextでポートフォリオサイト作成中
+NEXT/GOやってます。
 
 ### Qualifications
 - 色彩検定UC級
