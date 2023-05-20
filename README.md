@@ -34,3 +34,6 @@ NEXT/GOやってます。
 
 Qiita
 <https://qiita.com/haruharubeeem>
+
+Wantedly
+https://www.wantedly.com/id/haruki_oba
