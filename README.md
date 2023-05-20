@@ -1,5 +1,5 @@
 # About me
-Hi, I'm Haruki Oba,working hard to become a front-end engineer from japan🇯🇵
+Hi, I'm Haruki Oba,working hard to become a backend engineer from japan🇯🇵
 
 ## Language
 *・C*  
