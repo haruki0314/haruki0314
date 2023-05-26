@@ -20,14 +20,6 @@ Hi, I'm Haruki Oba,working hard to become a the best engineer from japan🇯🇵
 
 
 
-### Recentry
-NEXT/GOやってます。
-
-### Qualifications
-- 色彩検定UC級
-- 社団法人全日本能率連盟登録資格 Web検定 Webアソシエイト
-- 統計検定4級
-- ITパスポート
 
 <!-- リポジトリステータス -->
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=haruki0314&hide=contribs&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/haruki0314/)
