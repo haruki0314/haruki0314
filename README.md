@@ -37,3 +37,6 @@ Qiita
 
 Wantedly
 https://www.wantedly.com/id/haruki_oba
+
+ポートフォリオサイト作成中
+https://vercel.com/haruki0314/portfolio-site
