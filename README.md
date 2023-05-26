@@ -24,11 +24,7 @@ Hi, I'm Haruki Oba,working hard to become a the best engineer from japan🇯🇵
 <!-- リポジトリステータス -->
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=haruki0314&hide=contribs&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/haruki0314/)
 
-Qiita
-<https://qiita.com/haruharubeeem>
-
 Wantedly
 https://www.wantedly.com/id/haruki_oba
 
 ポートフォリオサイト作成中
-[https://vercel.com/haruki0314/portfolio-site](https://portfolio-site-psi-jade.vercel.app/)
