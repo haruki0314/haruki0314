@@ -27,4 +27,5 @@ Hi, I'm Haruki Oba,working hard to become a the best engineer from japan🇯🇵
 Wantedly
 https://www.wantedly.com/id/haruki_oba
 
-ポートフォリオサイト作成中
+自己紹介サイト
+https://portfolio-site-9t3ou25g1-haruki0314.vercel.app/
