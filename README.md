@@ -2,15 +2,15 @@
 Hi, I'm Haruki Oba,working hard to become a the best engineer from japan🇯🇵
 
 ## Language
-*・C*  
-*・Java-springBoot,MyBatis*  
-*・MySQL*  
-*・JavaScript*  
-*・React-materialui/AtomicDesign*  
-*・Nest.js(prisma)*
-*・TypeScript*  
-*・HTML/CSS/SCSS-Tymeleaf*    
-*・-Docker・Firebase・GraphQL*     
+*・C*</br>
+*・Java-springBoot,MyBatis*</br>
+*・MySQL*</br>
+*・JavaScript*</br>
+*・React-materialui/AtomicDesign*</br>
+*・Nest.js(prisma)*　</br>
+*・TypeScript*</br>
+*・HTML/CSS/SCSS-Tymeleaf*</br>
+*・-Docker・Firebase・GraphQL*</br>
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
