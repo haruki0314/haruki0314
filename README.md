@@ -27,6 +27,6 @@ Hi, I'm Haruki Oba,working hard to become a the best engineer from japan🇯🇵
 
 
 ## career
-2021/04〜2023/05 Java/SpringBootを用いたWebアプリケーション開発・API開発などに従事
+2021/04〜2023/05 Java/SpringBootを用いたWebアプリケーション開発・API開発などを担当していました。
 
 2023/06 現在　Next.js・TypeScript/Nest.jsを用いたSaaS開発に従事
