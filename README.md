@@ -7,7 +7,7 @@ Hi, I'm Haruki Oba,working hard to become a the best engineer from japan🇯🇵
 *・MySQL*</br>
 *・JavaScript*</br>
 *・React-materialui/AtomicDesign*</br>
-*・Nest.js(prisma)*　</br>
+*・Nest.js(prisma・ApolloServer)*　</br>
 *・TypeScript*</br>
 *・HTML/CSS/SCSS-Tymeleaf*</br>
 *・-Docker・Firebase・GraphQL*</br>
