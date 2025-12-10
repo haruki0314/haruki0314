@@ -2,18 +2,6 @@
 Hi, I'm Haruki Oba,working hard to become a the best engineer from japan🇯🇵
 
 
-<!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruki0314&hide=html&langs_count=15&layout=compact&theme=vue-dark)](https://github.com/haruki0314/)
-
-
-
-
-<!-- リポジトリステータス -->
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=haruki0314&hide=contribs&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/haruki0314/)
-
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
