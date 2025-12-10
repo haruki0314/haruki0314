@@ -1,17 +1,36 @@
 # About me
 Hi, I'm Haruki Oba,working hard to become a the best engineer from japan🇯🇵
 
+## 🛠 主な技術スタック
+- **Next.js** / **React** / **TypeScript** — SSR や SPA 開発での経験  
+- **Redux Toolkit** / **Redux-Saga** — 複雑な状態管理や副作用処理をシンプルに実装可能です 
+- **React Native** — iOS/Android 両対応のモバイルアプリ開発経験があります。
+- **Java / Spring Boot** — バックエンド API・マイクロサービス開発  
+- **CI/CD、Docker**、クラウド環境を活用したデプロイ運用
+<h3 align="left">Languages &amp; Tools</h3>
+<div align="left" style="display:flex; flex-wrap:wrap; gap:12px;">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-</a>
-   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-</p>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p>
+  <!-- React -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40">
+
+  <!-- Next.js -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="Next.js" width="40" height="40">
+
+  <!-- Redux Toolkit -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux Toolkit" width="40" height="40">
+
+  <!-- Docker -->
+  <img src="https://simpleicons.org/icons/docker.svg" alt="Docker" width="40" height="40">
+
+  <!-- MySQL -->
+  <img src="https://simpleicons.org/icons/mysql.svg" alt="MySQL" width="40" height="40">
+
+  <!-- Java（devicon のアイコンに戻しました） -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
+
+  <!-- Jest -->
+  <img src="https://simpleicons.org/icons/jest.svg" alt="Jest" width="40" height="40">
+
+  <!-- TypeScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40">
+</div>
